@@ -1,0 +1,7 @@
+package MyCurrencyConverter;
+
+public class Main {
+    public static void main(String[] args) {
+        new CurrencyConverter();
+    }
+}
